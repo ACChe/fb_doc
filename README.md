@@ -6,7 +6,7 @@
 
 
 ### 2 良好的比分,球赛, 数据接口API
-后段设计
+后端设计
 ---
 
 
@@ -52,9 +52,8 @@ http://www.goal.com/en/feeds/news?id=1716&fmt=rss&ICID=SP 欧冠
 
 http://www.goal.com/en/feeds/news?id=1862&fmt=rss&ICID=SP 英
 
-***
 
-纯网页： 
+### 纯网页： 
 http://www.by433.com/en/news 国际
 
 ---
