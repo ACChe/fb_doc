@@ -101,6 +101,8 @@ http://www.goal.com/en/feeds/news?id=1716&fmt=rss&ICID=SP 欧冠
 
 http://www.goal.com/en/feeds/news?id=1862&fmt=rss&ICID=SP 英
 
+http://allafrica.com/tools/headlines/rdf/soccer/headlines.rdf 非洲
+
 #### 转会：
 http://rss.sports.sohu.com/rss/zc.xml 中超
 
